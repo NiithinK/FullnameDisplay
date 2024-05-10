@@ -14,8 +14,7 @@ const handleSubmit = (e) => {
     }
   
     setFullName(`${firstName} ${lastName}`);
-    setFirstName('');
-    setLastName('');
+   
   };
   
 
